@@ -4,16 +4,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/about.107adc62.css"
   },
   {
-    "revision": "7d9957118b65efc3ab4a",
-    "url": "/app-landing/css/app.07ac4d9f.css"
+    "revision": "01bab0422a00bcdfa9d4",
+    "url": "/app-landing/css/app.342352bc.css"
   },
   {
     "revision": "2d18836290141dddf073",
     "url": "/app-landing/css/blog.ec7eefda.css"
   },
   {
-    "revision": "2449e3ad3a7b7dabf5d8",
-    "url": "/app-landing/css/chat-app.6deebbc3.css"
+    "revision": "4fceb7d801542bd6dcce",
+    "url": "/app-landing/css/chat-app.bbf43239.css"
   },
   {
     "revision": "12f2f8e4c29d25abaf87",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/contact.e66edf42.css"
   },
   {
-    "revision": "d27bc47e83787cd3571d",
-    "url": "/app-landing/css/divider-comment.15fe4a2f.css"
+    "revision": "50fa65ad8d0b8b0076fa",
+    "url": "/app-landing/css/divider-comment.69e4651d.css"
   },
   {
     "revision": "cc87acbbec6a4300b37e",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/divider-newsletter.15ea31f1.css"
   },
   {
-    "revision": "9c6469d96af527b3da04",
-    "url": "/app-landing/css/feature.f9719df2.css"
+    "revision": "ee27cab204088a14098a",
+    "url": "/app-landing/css/feature.9bba04d6.css"
   },
   {
     "revision": "5f38394cbdb7dd39b4e1",
@@ -60,11 +60,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/hero~navbar.ee84f8f6.css"
   },
   {
-    "revision": "56500223e19295701289",
-    "url": "/app-landing/css/how-work.884fe108.css"
+    "revision": "7e307775021582c587e6",
+    "url": "/app-landing/css/how-work.392a9bb4.css"
   },
   {
-    "revision": "646809920c0d35abc940",
+    "revision": "3b2876ab10be17befdbf",
     "url": "/app-landing/css/navbar.6fa343f1.css"
   },
   {
@@ -228,7 +228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/img/team-5.e317f4e3.jpg"
   },
   {
-    "revision": "15d08e43a988c4577f57098f5f677e9f",
+    "revision": "7ec1624ccaeb84bd554341ba6d1798a2",
     "url": "/app-landing/index.html"
   },
   {
@@ -236,16 +236,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/about.e68a13e9.js"
   },
   {
-    "revision": "7d9957118b65efc3ab4a",
-    "url": "/app-landing/js/app.38928bf1.js"
+    "revision": "01bab0422a00bcdfa9d4",
+    "url": "/app-landing/js/app.ce2b990a.js"
   },
   {
     "revision": "2d18836290141dddf073",
     "url": "/app-landing/js/blog.081b6ec0.js"
   },
   {
-    "revision": "2449e3ad3a7b7dabf5d8",
-    "url": "/app-landing/js/chat-app.1fe5ff19.js"
+    "revision": "4fceb7d801542bd6dcce",
+    "url": "/app-landing/js/chat-app.d293638c.js"
   },
   {
     "revision": "12f2f8e4c29d25abaf87",
@@ -256,8 +256,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/contact.f3d9db39.js"
   },
   {
-    "revision": "d27bc47e83787cd3571d",
-    "url": "/app-landing/js/divider-comment.bf8226b4.js"
+    "revision": "50fa65ad8d0b8b0076fa",
+    "url": "/app-landing/js/divider-comment.f39f0789.js"
   },
   {
     "revision": "cc87acbbec6a4300b37e",
@@ -272,8 +272,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/divider-newsletter.f408ff38.js"
   },
   {
-    "revision": "9c6469d96af527b3da04",
-    "url": "/app-landing/js/feature.3055cc2b.js"
+    "revision": "ee27cab204088a14098a",
+    "url": "/app-landing/js/feature.3b0e28af.js"
   },
   {
     "revision": "5f38394cbdb7dd39b4e1",
@@ -292,12 +292,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/hero~navbar.0cc81b2d.js"
   },
   {
-    "revision": "56500223e19295701289",
-    "url": "/app-landing/js/how-work.dfd59353.js"
+    "revision": "7e307775021582c587e6",
+    "url": "/app-landing/js/how-work.3a11c078.js"
   },
   {
-    "revision": "646809920c0d35abc940",
-    "url": "/app-landing/js/navbar.39e1a822.js"
+    "revision": "3b2876ab10be17befdbf",
+    "url": "/app-landing/js/navbar.5ecb0d0f.js"
   },
   {
     "revision": "3dbc13821334c840e382",
