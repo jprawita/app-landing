@@ -1,22 +1,26 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a81688021d31a110209",
-    "url": "/app-landing/css/about.107adc62.css"
+    "revision": "5216bd6af7e2bbbde004",
+    "url": "/app-landing/css/about.9d56201b.css"
   },
   {
-    "revision": "37739835fb09bcf29001",
-    "url": "/app-landing/css/app.2780efaf.css"
+    "revision": "0b5375a391465b4ce142",
+    "url": "/app-landing/css/app.4112b39f.css"
   },
   {
     "revision": "2d18836290141dddf073",
     "url": "/app-landing/css/blog.ec7eefda.css"
   },
   {
-    "revision": "b7a1f756d85cc9111d03",
-    "url": "/app-landing/css/chat-app.c9a4b6dc.css"
+    "revision": "810b45ae38b4b2c7600d",
+    "url": "/app-landing/css/chat-app.9d262192.css"
   },
   {
-    "revision": "48750cf5226756025a81",
+    "revision": "828fd6579fc6f1440639",
+    "url": "/app-landing/css/chat-app~navbar.e1686c4d.css"
+  },
+  {
+    "revision": "890f571c2d3451ee9d7f",
     "url": "/app-landing/css/chunk-vendors.a20421c0.css"
   },
   {
@@ -60,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/how-work.392a9bb4.css"
   },
   {
-    "revision": "1765c45c6d09908a5e89",
-    "url": "/app-landing/css/navbar.b70e04b8.css"
+    "revision": "24f398be7c4d111e03c6",
+    "url": "/app-landing/css/navbar.151e0577.css"
   },
   {
     "revision": "483add29ec5330790dac",
     "url": "/app-landing/css/procing.5746c2bf.css"
   },
   {
-    "revision": "1b5c916e897dee14e0a5",
-    "url": "/app-landing/css/screen-shot.91f9b1fd.css"
+    "revision": "166142dca010002dff32",
+    "url": "/app-landing/css/screen-shot.54c2fe09.css"
   },
   {
     "revision": "bff6cac0756b96491845",
@@ -102,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "14afae3088809bf0a9555b94599de9ed",
     "url": "/app-landing/img/about-chatapp-banner.14afae30.png"
+  },
+  {
+    "revision": "6ba9297aa3021d2b090d52947af86d6b",
+    "url": "/app-landing/img/bg-icon.6ba9297a.png"
   },
   {
     "revision": "1282ea87617fef0ebd8503927a877fa3",
@@ -146,10 +154,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "283bb8b50b5fd49acd97ff096539257f",
     "url": "/app-landing/img/footer-bg.283bb8b5.png"
-  },
-  {
-    "revision": "dd35e6f29c9d8ad043419fa1dbf3407d",
-    "url": "/app-landing/img/ice.dd35e6f2.jpg"
   },
   {
     "revision": "10fc2c3236ecec88bb2fb1ead1d9499c",
@@ -228,28 +232,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/img/team-5.e317f4e3.jpg"
   },
   {
-    "revision": "0eb84fc6b113ff1b19a1c6e9d30f7cf9",
+    "revision": "38e294c217b12872f044139029743cb0",
     "url": "/app-landing/index.html"
   },
   {
-    "revision": "8a81688021d31a110209",
-    "url": "/app-landing/js/about.e68a13e9.js"
+    "revision": "5216bd6af7e2bbbde004",
+    "url": "/app-landing/js/about.fd2a6e82.js"
   },
   {
-    "revision": "37739835fb09bcf29001",
-    "url": "/app-landing/js/app.e2521606.js"
+    "revision": "0b5375a391465b4ce142",
+    "url": "/app-landing/js/app.dfadbec5.js"
   },
   {
     "revision": "2d18836290141dddf073",
     "url": "/app-landing/js/blog.081b6ec0.js"
   },
   {
-    "revision": "b7a1f756d85cc9111d03",
-    "url": "/app-landing/js/chat-app.b9fbce4d.js"
+    "revision": "810b45ae38b4b2c7600d",
+    "url": "/app-landing/js/chat-app.73225aee.js"
   },
   {
-    "revision": "48750cf5226756025a81",
-    "url": "/app-landing/js/chunk-vendors.cdbd555a.js"
+    "revision": "828fd6579fc6f1440639",
+    "url": "/app-landing/js/chat-app~navbar.f8c4b720.js"
+  },
+  {
+    "revision": "890f571c2d3451ee9d7f",
+    "url": "/app-landing/js/chunk-vendors.863c9ea7.js"
   },
   {
     "revision": "716b711c8817729cc466",
@@ -292,16 +300,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/how-work.3a11c078.js"
   },
   {
-    "revision": "1765c45c6d09908a5e89",
-    "url": "/app-landing/js/navbar.eeff1a9e.js"
+    "revision": "24f398be7c4d111e03c6",
+    "url": "/app-landing/js/navbar.e0f0823f.js"
   },
   {
     "revision": "483add29ec5330790dac",
     "url": "/app-landing/js/procing.d703b89a.js"
   },
   {
-    "revision": "1b5c916e897dee14e0a5",
-    "url": "/app-landing/js/screen-shot.059f0d39.js"
+    "revision": "166142dca010002dff32",
+    "url": "/app-landing/js/screen-shot.6362c2cd.js"
   },
   {
     "revision": "bff6cac0756b96491845",
