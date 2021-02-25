@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/about.9d56201b.css"
   },
   {
-    "revision": "133bfefc9fb311c8f696",
-    "url": "/app-landing/css/app.571f8140.css"
+    "revision": "78aae5978fe557f7b40c",
+    "url": "/app-landing/css/app.2c21be00.css"
   },
   {
     "revision": "bb8c5a5c46fa2999c299",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/how-work.392a9bb4.css"
   },
   {
-    "revision": "7c760432d079a2357b67",
-    "url": "/app-landing/css/navbar.42616c9e.css"
+    "revision": "c949f2731905abe3cc1b",
+    "url": "/app-landing/css/navbar.19bb1bd2.css"
   },
   {
     "revision": "483add29ec5330790dac",
@@ -232,7 +232,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/img/team-5.e317f4e3.jpg"
   },
   {
-    "revision": "28d91b8471649c2381279c1238abdbe4",
+    "revision": "f9316f1d88bb756b1301a8d67fc2fbd0",
     "url": "/app-landing/index.html"
   },
   {
@@ -240,8 +240,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/about.fd2a6e82.js"
   },
   {
-    "revision": "133bfefc9fb311c8f696",
-    "url": "/app-landing/js/app.884ec75e.js"
+    "revision": "78aae5978fe557f7b40c",
+    "url": "/app-landing/js/app.35dab2ab.js"
   },
   {
     "revision": "bb8c5a5c46fa2999c299",
@@ -300,8 +300,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/how-work.3a11c078.js"
   },
   {
-    "revision": "7c760432d079a2357b67",
-    "url": "/app-landing/js/navbar.e0fe5d49.js"
+    "revision": "c949f2731905abe3cc1b",
+    "url": "/app-landing/js/navbar.e4cb711c.js"
   },
   {
     "revision": "483add29ec5330790dac",
