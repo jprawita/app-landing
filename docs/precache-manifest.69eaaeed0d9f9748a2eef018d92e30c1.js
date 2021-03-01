@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/alert.3f03a2a4.css"
   },
   {
-    "revision": "e59d8c0cf023ded72e12",
+    "revision": "1063b1bece20be4ddfd6",
     "url": "/app-landing/css/app.2eb4d553.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/css/blog.4699411d.css"
   },
   {
-    "revision": "eefea83ff7519063b0bd",
-    "url": "/app-landing/css/chat-app.db103d62.css"
+    "revision": "982c14ddb47fe7736c6c",
+    "url": "/app-landing/css/chat-app.5921e485.css"
   },
   {
     "revision": "1cf0da08fc002b1ec018",
@@ -244,7 +244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/img/team-5.e317f4e3.jpg"
   },
   {
-    "revision": "833c62f7b20c5d4babdc15e42a93245a",
+    "revision": "2dc58c2461987aab5763081a71ce17d2",
     "url": "/app-landing/index.html"
   },
   {
@@ -272,16 +272,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-landing/js/alert.92694b29.js"
   },
   {
-    "revision": "e59d8c0cf023ded72e12",
-    "url": "/app-landing/js/app.df32b178.js"
+    "revision": "1063b1bece20be4ddfd6",
+    "url": "/app-landing/js/app.6173a01c.js"
   },
   {
     "revision": "bf55cb88a15772ae1184",
     "url": "/app-landing/js/blog.6806dcf6.js"
   },
   {
-    "revision": "eefea83ff7519063b0bd",
-    "url": "/app-landing/js/chat-app.f1b2f224.js"
+    "revision": "982c14ddb47fe7736c6c",
+    "url": "/app-landing/js/chat-app.d870f70d.js"
   },
   {
     "revision": "1cf0da08fc002b1ec018",
